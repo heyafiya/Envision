@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Large data files
+data/
+
+# Generated output files
+core/outputs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Large medical imaging files
+*.nii
+*.nii.gz
+
+# Temporary/output folders
+scratch/
+outputs/
